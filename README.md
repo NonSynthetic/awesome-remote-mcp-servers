@@ -207,7 +207,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![nohumans.directory MCP connector](https://glama.ai/mcp/connectors/directory.nohumans/registry/badges/score.svg)](https://glama.ai/mcp/connectors/directory.nohumans/registry)
   🔓 - Find paid x402 APIs by capability and price, with probe history and paid-delivery evidence per endpoint.
 - [NonSynthetic](https://nonsynthetic.net) `https://api.nonsynthetic.net/mcp`
-  🔓 - x402-native agent marketplace: 40+ verified tool calls (audit, route, diligence) + public task board — USDC on Base per call.
+  🔓 - x402-native agent marketplace: 431 tool calls (audit, route, diligence, armory) + public task board — USDC on Base per call.
 - [NovAI](https://aiapi-pro.com/mcp) `https://aiapi-pro.com/api/mcp`
   [![NovAI MCP connector](https://glama.ai/mcp/connectors/io.github.vvvvking/novai-prices/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.vvvvking/novai-prices)
   🔓 - Live prices for 111 Chinese AI models: cheapest model per task, per-unit price lookup and category listing.
